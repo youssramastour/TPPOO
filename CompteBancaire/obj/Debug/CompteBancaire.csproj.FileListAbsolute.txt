@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\CompteBancaire\CompteBancaire\bin\Debug\CompteBancaire.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\CompteBancaire\CompteBancaire\bin\Debug\CompteBancaire.exe
+c:\users\dell\documents\visual studio 2015\Projects\CompteBancaire\CompteBancaire\bin\Debug\CompteBancaire.pdb
+c:\users\dell\documents\visual studio 2015\Projects\CompteBancaire\CompteBancaire\obj\Debug\CompteBancaire.exe
+c:\users\dell\documents\visual studio 2015\Projects\CompteBancaire\CompteBancaire\obj\Debug\CompteBancaire.pdb
+c:\users\dell\documents\visual studio 2015\Projects\CompteBancaire\CompteBancaire\obj\Debug\CompteBancaire.csprojResolveAssemblyReference.cache
